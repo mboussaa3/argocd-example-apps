@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/mboussaa3/argocd-example-apps",
-  "drySha": "723b86e01bea11dcf72316cb172868fcbf05d69e",
-  "author": "Michael Crenshaw <350466+crenshaw-dev@users.noreply.github.com>",
-  "date": "2026-01-20T16:12:23Z",
-  "subject": "docs: Fix formatting and capitalization in README.md (#443)"
+  "drySha": "b263eb7e939e89d93d22f5f0da7e657e470b3a49",
+  "author": "Mohamed Boussaa <mboussaa@azewu22mbouss01.ansys.com>",
+  "date": "2026-04-02T16:55:11Z",
+  "subject": "Increate replica count"
 }
